@@ -21,4 +21,4 @@ Readkonkub.py Run ไม่ได้เด้ออย่าหา Run
 ไปที่ Terminal เลือก drives ที่ลงไว้ เช่น  drives D = D: จากนั้น พิมพ์ cd Test1-main
 พิมพ์ [-ชื่อFlie-].py
  
-ปล.Run ผ่านทุกอันเด้อ
+ผมRun ผ่านทุกอันเด้อ

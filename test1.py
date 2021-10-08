@@ -1,4 +1,2 @@
 
-#keyword ของภาษา python
-import keyword
-print(keyword.kwlist)
+a = 77; b = 88; c = a + b; print(c) #ถือเป็น single statement

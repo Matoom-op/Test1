@@ -12,3 +12,5 @@ https://www.microsoft.com/th-th/p/python-39/9p7qfqmjrfp7?activetab=pivot:overvie
 
 เช็ค Python ว่าติดมั้ย
 python -V
+
+Readkonkub.py Run ไม่ได้เด้ออย่าหา Run
